@@ -175,7 +175,7 @@ mSet<-PlotPCABiplot(mSet, "pca_biplot_0_", format = "png", dpi = 72, width=NA, 1
 
 **Results:**
 ![PCA Scree Plot](results/pca_scree_0_dpi72.png)
-![PCA Score Plot](results/pca_score2d_0_dpi72.png)
+![PCA Score Plot](results/pca_score3d_0_dpi72.png)
 ![PCA Biplot](results/pca_biplot_0_dpi72.png)
 
 ---
